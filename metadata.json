@@ -1,0 +1,6 @@
+{
+  "name": "Bengal GeoAI",
+  "description": "AI-assisted geospatial analysis and Multi-Criteria Decision Analysis (MCDA) platform for West Bengal and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
